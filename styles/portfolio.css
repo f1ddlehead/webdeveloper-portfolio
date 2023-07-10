@@ -22,6 +22,13 @@ body {
   margin-right: 30px;
 }
 
+#contact-btn {
+  background-color: white;
+  color: #fd6e0a;
+  border-radius: 3px;
+  border: 2px solid;
+}
+
 .section-title {
   color: #181818;
   text-align: center;
@@ -98,6 +105,7 @@ nav a {
 }
 .banner-description {
   margin-top: 20px;
+  text-align: justify;
 }
 
 /* main sections style */
